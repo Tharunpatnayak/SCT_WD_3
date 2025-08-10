@@ -30,7 +30,7 @@ A fun and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **Java
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/your-repo-name.git
+git clone https://github.com/Tharunpatnayak/SCT_WD_3.git
 ```
 
 ## 📂 Navigate to the Project Folder
