@@ -61,12 +61,17 @@ tic-tac-toe/
 ## ▶️ How to Run
 
 i)Clone or download this repository.
+
 ii)Open the index.html file in your browser.
+
 iii)Choose a game mode and start playing!
 
 ## 🧠 Game Logic Overview
 
 ● The game board is a 3x3 grid.
+
 ● Players take turns placing X or O.
+
 ● The game checks for win or draw after every move.
+
 ● In Computer Mode, the AI makes a random valid move.
