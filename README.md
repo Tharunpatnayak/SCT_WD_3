@@ -31,11 +31,13 @@ A fun and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **Java
 
 ```bash
 git clone https://github.com/YourUsername/your-repo-name.git
+```
 
 ## 📂 Navigate to the Project Folder
 
 ```bash
 cd tic-tac-toe
+```
 
 ## 🌐 Open in Browser
 Open the index.html file using any modern browser (Chrome, Edge, Firefox, etc.)
@@ -47,12 +49,14 @@ Use a local server (like Live Server in VS Code)
 
 
 ## 📂 Project Structure
+
 ```bash
 tic-tac-toe/
-├── index.html        # Main HTML structure
-├── style.css         # Styling of the app
-├── script.js         # Game logic
-└── README.md         # Documentation
+├── index.html       # Main HTML structure
+├── style.css        # Styling of the app
+├── script.js        # Game logic
+└── README.md        # Project documentation
+```
 
 ## ▶️ How to Run
 
