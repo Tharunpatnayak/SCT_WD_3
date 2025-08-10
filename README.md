@@ -32,11 +32,12 @@ A fun and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **Java
 ```bash
 git clone https://github.com/YourUsername/your-repo-name.git
 
-📂 Navigate to the Project Folder
+## 📂 Navigate to the Project Folder
+
 ```bash
 cd tic-tac-toe
 
-🌐 Open in Browser
+## 🌐 Open in Browser
 Open the index.html file using any modern browser (Chrome, Edge, Firefox, etc.)
 
 You can either:
@@ -53,13 +54,13 @@ tic-tac-toe/
 ├── script.js         # Game logic
 └── README.md         # Documentation
 
-▶️ How to Run
+## ▶️ How to Run
 
 i)Clone or download this repository.
 ii)Open the index.html file in your browser.
 iii)Choose a game mode and start playing!
 
-🧠 Game Logic Overview
+## 🧠 Game Logic Overview
 
 ● The game board is a 3x3 grid.
 ● Players take turns placing X or O.
